@@ -1,0 +1,10 @@
+{
+    "tslint.autoFixOnSave": true,
+    "typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "git.ignoreLimitWarning": true,
+    "typescript.tsdk": "node_modules\\typescript\\lib"
+}
